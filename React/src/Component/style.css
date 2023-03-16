@@ -1,0 +1,27 @@
+#main {
+  border: 1px solid black;
+  margin-left: 330px;
+  width: 330px;
+  height: 450px;
+  background-color: antiquewhite;
+}
+.input {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 30px;
+}
+.label {
+  font-size: 20px;
+  font-weight: 700;
+  color: black;
+}
+.output {
+  margin-top: 30px;
+  height: 180px;
+  display: flex;
+  flex-direction: column;
+}
+.element {
+  font-size: 16px;
+  font-weight: 600;
+}
