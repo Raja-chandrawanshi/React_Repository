@@ -119,7 +119,7 @@ class GoogleForm1 extends Component {
           </svg>
         </div>
         <h1>Create Your Google Account</h1>
-        <div className="fl">
+        <div classNam e="fl">
           <input
             className="inp"
             type="text"
