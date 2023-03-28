@@ -50,7 +50,7 @@ const ButtonV4 = ({
   }
   if (padding) {
     btnStyle["backgroundColor"] = " #f115ed";
-    btnStyle["padding"] = " 10px 156px";
+    btnStyle["padding"] = " 5px 120px";
   }
 
   return <button style={btnStyle}>{children}</button>;
